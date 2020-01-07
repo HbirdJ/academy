@@ -1,7 +1,7 @@
 ---
 id: collect
 title: Collect
-sidebar_label: Our Collection System
+sidebar_label: Our collection system
 ---
 
 <div class="videocontainer">
@@ -15,7 +15,7 @@ sidebar_label: Our Collection System
 }
 </style>
 
-# Our worldwide Collection System
+# Our worldwide collection system
 
 <div class="videoChapters">
 <div class="videoChaptersMain">
@@ -24,7 +24,7 @@ sidebar_label: Our Collection System
 
 Collecting plastic is pretty crucial - here we’ll show you what it means to collect plastic, how it works around the world and how we envision a collection system within the Precious Plastic Universe!
 
-> Pro-tip: ask the shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
+> Tip: ask shops and businesses around you if they have excess plastic waste they want to get rid of. If you set them up with some bins, they could even sort it for you!
 
 
 </div>
@@ -57,6 +57,8 @@ But why - it’s being recycled, right? Well, the plastic that people throw in t
 
 Sometimes, the plastic is recycled. As you’ve probably read somewhere, it’s around 9%. It needs to go through a very complex, expensive, time-consuming and energy-intensive process and most countries don’t even have this option to do so.
 
+The other, more likely scenario is that plastic is either burnt, sent to a landfill, dumped in the ocean, or sent on a cargo ship to Asia or Africa (where they certainly don’t have the infrastructure to deal with it). These solutions cause huge environmental damage and social oppression. Have you ever caught yourself thinking - I don’t see any rubbish anywhere! Our streets in western countries are clean. But some places in Asia, Africa, it’s often seen as dirty and littered - it’s everywhere in the ocean and they burn it on the streets. That’s because collection systems have to be subsidized by the state through taxpayer money which is just not doable in many places. But don’t get this one mixed up - the west is still the biggest producer of plastic waste on the planet. And on top of this, collection systems worldwide are not standardized. Every country and municipality within that country have different regulations. This leaves people very confused (including us).
+
 ## Challenges
 
 There are numerous challenges connected with the way plastic is currently collected:
@@ -75,7 +77,7 @@ So how does this work for collecting plastic? Great question 😉
 
 ![Collection Network](assets/collect/collectionnetwork.svg)
 
-<p class="note">Note: when we say citizens, we mean everyone in society. When we say people in our community, we mean those that have become part of the Precious Plastic community (and if you haven’t already, join us!)</p>
+<i>When we say citizens, we mean everyone in society. When we say people in our community, we mean those that have become part of the Precious Plastic community (and if you haven’t already, join us!)</i>
 
 <b>One.</b> We give people all the information they need to properly clean their plastic at home and then show them where they can bring it to make sure it’s recycled properly. Education is at the core of everything we do (knowledge = power) so teaching citizens on the importance of clean, label free plastic can alone create a huge shift.
 
@@ -101,7 +103,7 @@ For citizens we have a website that will teach them about the Precious Plastic r
 ![All Tools](assets/collect/alltools.svg)
 
 For people in our community we’re developed:
-- A <b>starter-kit:</b> if you’re interested in becoming a collection point this will give you everything you need to get started
-- A <b>platform</b> to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
-- <b>Posters</b> for your workspace or for your community to help spread the word
-- A <b>tool to weigh</b> how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
+- A starter-kit: if you’re interested in becoming a collection point this will give you everything you need to get started
+- A platform to connect everyone in the community. You can use the map to find local workspaces, or the How-To tool to learn about other collection strategies from around the world
+- Posters for your workspace or for your community to help spread the word
+- A tool to weigh how much plastic you process, so we can add it up and see the impact of the Precious Plastic Universe
